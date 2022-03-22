@@ -1,4 +1,4 @@
-# **Ecostata**
+# **Ecostats**
 
 <!-- badges: start -->
 
