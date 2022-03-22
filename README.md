@@ -1,4 +1,4 @@
-# **Diogenes club**
+# **Ecostata**
 
 <!-- badges: start -->
 
@@ -11,4 +11,4 @@
 
 ## **Who we are**
 
-We are a team focused on **designing and evaluating public data from peruvian resources**. 
+Package developed by a team focused on **designing and evaluating public data from peruvian resources**. 
