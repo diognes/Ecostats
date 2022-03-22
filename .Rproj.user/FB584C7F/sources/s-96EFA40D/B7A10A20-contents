@@ -1,0 +1,22 @@
+Package: Ecostats
+Type: Package
+Title: Title: Package to download Economic data from Peruvian public institutions
+Version: 0.0.1.0
+Authors@R:
+  c(person(given = "Jesus",
+           family = "Quispe-Quispe",
+           role = c("aut"),
+           email = "jesus.quispe.rsjp@gmail.com",
+           comment = c(ORCID = "",
+                        webpage = "")),
+    person(given = "Rodrigo",
+           family = "Norabuena Mascaraqui",
+           role = c("aut"),
+           email = "rod_nm@outlook.com",
+           comment = c(ORCID = "")),
+    person(given = "Giancarlo",
+           family = "Liñan ",
+           role = "aut",
+           email = " ",
+           comment = c(ORCID = " "))
+           )
