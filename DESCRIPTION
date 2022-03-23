@@ -21,6 +21,10 @@ Authors@R:
            email = "glinan@pucp.pe",
            comment = c(ORCID = " "))
            )
+Author: Jesus Quispe-Quispe [aut, cre],
+  Pat Developer [aut],
+  A. User [ctb]
+Maintainer: Jesus Quispe-Quispe <jesus.quispe.rsjp@gmail.com>
 RoxygenNote: 7.1.2
 URL: https://github.com/diognes/Ecostats
 BugReports: https://github.com/diognes/Ecostats/issues
